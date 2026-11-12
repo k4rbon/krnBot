@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="screenshots/01-serwer.png" width="860" alt="Panel krnBot: role i kanały serwera">
+  <img src="screenshots/krnbot-01-serwer.png" width="860" alt="Panel krnBot: role i kanały serwera">
 </p>
 
 ---
@@ -28,11 +28,11 @@ Panel działa obok bota i odświeża się na żywo, kiedy na serwerze coś się 
 - **Historia:** kary, wyniki whitelisty, blacklista i transkrypty zamkniętych ticketów, z wyszukiwarką
 
 <p>
-  <img src="screenshots/02-whitelista.png" width="420" alt="Whitelista">
-  <img src="screenshots/03-tickety.png" width="420" alt="Tickety">
+  <img src="screenshots/krnbot-02-whitelista.png" width="420" alt="Whitelista">
+  <img src="screenshots/krnbot-03-tickety.png" width="420" alt="Tickety">
 </p>
 <p>
-  <img src="screenshots/04-historia.png" width="420" alt="Historia whitelisty">
+  <img src="screenshots/krnbot-04-historia.png" width="420" alt="Historia whitelisty">
 </p>
 
 ## Funkcje na Discordzie
